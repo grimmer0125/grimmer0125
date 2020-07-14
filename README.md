@@ -1,7 +1,3 @@
-# Grimmer
-
-Enthusiastic to make something good for people. 
-
 ## My Open source free utilities
 
 1. iOS: [record pets' respiratory](https://itunes.apple.com/us/app/maolife/id1397714182) rate React Native
