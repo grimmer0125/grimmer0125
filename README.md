@@ -1,6 +1,6 @@
 # Grimmer
 
-A generalist (app, front-end, back-end) and enthusiastic to make something good for people. 
+Enthusiastic to make something good for people. 
 
 ## My Open source free utilities
 
