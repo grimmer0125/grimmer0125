@@ -1,6 +1,6 @@
 ## My Open source free utilities
 
-1. iOS: [record pets' respiratory](https://itunes.apple.com/us/app/maolife/id1397714182) rate React Native
+1. iOS: [record pets' respiratory rate](https://itunes.apple.com/us/app/maolife/id1397714182) React Native
 2. Android: [monitor pets' respiratory rate](https://play.google.com/store/apps/details?id=com.maolife) React Native
 3. Utility: [Visual Studio Code Back and Forward button](https://marketplace.visualstudio.com/items?itemName=grimmer.vscode-back-forward-button)
 4. Utility: [Atom editor package-markdown-preview-kramdown](https://atom.io/packages/markdown-preview-kramdown)
