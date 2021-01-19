@@ -3,7 +3,7 @@
 1. Chrome Extension [GitHub inline code color editor](https://chrome.google.com/webstore/detail/github-inline-code-color/ancifpojcglbcoilgkpeiphjenigogmb?hl=zh-TW&authuser=0)
 2. iOS: [record pets' respiratory rate](https://itunes.apple.com/us/app/maolife/id1397714182) React Native
 3. Android: [monitor pets' respiratory rate](https://play.google.com/store/apps/details?id=com.lifeoverflow.maolife) React Native
-4. Utility: [Visual Studio Code Back and Forward button](https://marketplace.visualstudio.com/items?itemName=grimmer.vscode-back-forward-button) over 10983 stars!
+4. Utility: [Visual Studio Code Back and Forward button](https://marketplace.visualstudio.com/items?itemName=grimmer.vscode-back-forward-button) over 11000 stars!
 5. Utility: [Atom editor package-markdown-preview-kramdown](https://atom.io/packages/markdown-preview-kramdown)
 6. Utility: [A command line program to change macOS terminal title](https://pypi.org/project/termtitle/) Python, pip
 7. Chrome:  [An extension for Gmail. Use slider or input page number to do pagination](https://chrome.google.com/webstore/detail/gmail-pagination-slider/bcjhpmecgoejigiojamklcbfnfnfgnal)
