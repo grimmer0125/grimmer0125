@@ -7,7 +7,7 @@
 5. Utility: [Atom editor package-markdown-preview-kramdown](https://atom.io/packages/markdown-preview-kramdown) 2,400+ download
 6. Utility: [A command line program to change macOS terminal title](https://pypi.org/project/termtitle/) Python, PyPI
 7. Chrome:  [An extension for Gmail. Use slider or input page number to do pagination](https://chrome.google.com/webstore/detail/gmail-pagination-slider/bcjhpmecgoejigiojamklcbfnfnfgnal)
-8. Chrome: [Medical DICOM Image Viewer](https://chrome.google.com/webstore/detail/dicom-image-viewer/ehppmcooahfnlfhhcflpkcjmonkoindc) [Web ver.](https://grimmer.io/dicom-web-viewer/), 2020 upateed, recommended, 1000+ installs!
+8. Chrome: [Medical DICOM Image Viewer](https://chrome.google.com/webstore/detail/dicom-image-viewer/ehppmcooahfnlfhhcflpkcjmonkoindc) [Web ver.](https://grimmer.io/dicom-web-viewer/), 2020 upateed, recommended, 1,000+ installs!
 9. Web: [Full-text search your GitHub starred repositories](https://searchgithub.herokuapp.com/) Golang Server, Elasticsearch, Redis. (not maintained)
 10. Web: [Taiwan house price chart with auto update](https://grimmer.io/Taiwan-house-price-chart/) Vue.js, Plotly (built on top of D3.js and stack.gl), Amazon AWS's Lambda, Google's Firebase. (show 2012~2018 data, auto-update is not maintained)
 11. Chrome: [Auto Show Dropbox Paper Table Of Content]( https://chrome.google.com/webstore/detail/paper-auto-show-toc/eifkjfleeeochflgobmibofbcdiledng)
