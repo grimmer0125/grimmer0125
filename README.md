@@ -16,4 +16,4 @@
 ## Articles
 
 1. good books about software project management [include my review] https://paper.dropbox.com/doc/Recommendation-book-list-for-those-people-who-stay-in-software-company--BHfhUtQDDDoOaoVVRcKQjc_HAg-h1OzqSLtap1MqktwFLTG1
-
+2. Using GitHub Stargazers Distribution to Compare React, Angular and Vue https://medium.com/@grimmer0125/compare-react-angular-and-vue-by-using-github-stargazers-distribution-37bd6e445073
