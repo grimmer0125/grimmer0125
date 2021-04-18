@@ -9,7 +9,7 @@
 7. Chrome extension: [In Gmail. Use slider or input page number to do pagination](https://chrome.google.com/webstore/detail/gmail-pagination-slider/bcjhpmecgoejigiojamklcbfnfnfgnal)
 8. Chrome extension: [Medical DICOM Image Viewer](https://chrome.google.com/webstore/detail/dicom-image-viewer/ehppmcooahfnlfhhcflpkcjmonkoindc) + [Web ver.](https://grimmer.io/dicom-web-viewer/), 1,000+ installs!
 9. Chrome extension: [Auto Show Dropbox Paper Table Of Content]( https://chrome.google.com/webstore/detail/paper-auto-show-toc/eifkjfleeeochflgobmibofbcdiledng)
-10. Docker image: https://hub.docker.com/repository/docker/grimmer0125/express-mongo-rest-sample 1,000+ downloads.
+10. Docker image: https://hub.docker.com/repository/docker/grimmer0125/express-mongo-rest-sample 1,000+ downloads. [Its config files](https://github.com/grimmer0125/express-mongo-rest-k8s-sample).
 11. Web: [Taiwan house price chart with auto update](https://grimmer.io/Taiwan-house-price-chart/) Vue.js, Plotly (built on top of D3.js and stack.gl), Amazon AWS's Lambda, Google's Firebase. (show 2012~2018 data, auto-update-data is not maintained)
 
 
