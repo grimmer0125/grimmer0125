@@ -4,7 +4,7 @@
 2. Android: [monitor pets' respiratory rate](https://play.google.com/store/apps/details?id=com.lifeoverflow.maolife) React Native
 3. Utility: [Visual Studio Code Back and Forward button](https://marketplace.visualstudio.com/items?itemName=grimmer.vscode-back-forward-button) 12,000+ installs!
 4. Utility: [Atom editor package-markdown-preview-kramdown](https://atom.io/packages/markdown-preview-kramdown) 2,400+ download
-5. Utility: [A command line program to change macOS terminal title](https://pypi.org/project/termtitle/) Python, PyPI
+5. Utility: [A command line program to change macOS terminal title](https://pypi.org/project/termtitle/) Python, PyPI, 14,000+ download
 6. Chrome extension: [GitHub inline code color editor](https://chrome.google.com/webstore/detail/github-inline-code-color/ancifpojcglbcoilgkpeiphjenigogmb?hl=zh-TW&authuser=0)
 7. Chrome extension: [In Gmail. Use slider or input page number to do pagination](https://chrome.google.com/webstore/detail/gmail-pagination-slider/bcjhpmecgoejigiojamklcbfnfnfgnal)
 8. Chrome extension: [Medical DICOM Image Viewer](https://chrome.google.com/webstore/detail/dicom-image-viewer/ehppmcooahfnlfhhcflpkcjmonkoindc) + [Web ver.](https://grimmer.io/dicom-web-viewer/), 1,000+ installs!
