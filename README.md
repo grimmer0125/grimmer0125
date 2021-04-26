@@ -9,12 +9,11 @@
 7. Chrome extension: [Medical DICOM Image Viewer](https://chrome.google.com/webstore/detail/dicom-image-viewer/ehppmcooahfnlfhhcflpkcjmonkoindc) + [Web ver.](https://grimmer.io/dicom-web-viewer/), 1,000+ installs!
 8. Chrome extension: [Auto Show Dropbox Paper Table Of Content]( https://chrome.google.com/webstore/detail/paper-auto-show-toc/eifkjfleeeochflgobmibofbcdiledng)
 9. Docker image: https://hub.docker.com/repository/docker/grimmer0125/express-mongo-rest-sample 1,000+ downloads. [config](https://github.com/grimmer0125/express-mongo-rest-k8s-sample).
-10. Web: [Taiwan house price chart with auto update](https://grimmer.io/Taiwan-house-price-chart/) Vue.js, Plotly (built on top of D3.js and stack.gl), Amazon AWS's Lambda, Google's Firebase. (show 2012~2018 data, auto-update-data is not maintained)
-
 
 ## Articles & Study
 
-1. Good books about software project management [include my review] https://paper.dropbox.com/doc/Recommendation-book-list-for-those-people-who-stay-in-software-company--BHfhUtQDDDoOaoVVRcKQjc_HAg-h1OzqSLtap1MqktwFLTG1
-2. Using GitHub Stargazers Distribution to Compare React, Angular and Vue https://medium.com/@grimmer0125/compare-react-angular-and-vue-by-using-github-stargazers-distribution-37bd6e445073
-3. [Learning Javascript](https://lifeoverflow.gitbook.io/learning-javascript/) A entry level online ebook to record my note to learn JavaScript, written in 2016, several months after starting to use JS. 
-4. [AI+Electron](https://github.com/grimmer0125/electron-face-finder) A demo project to use a image including a face to find out the other images including similar faces on your comuters.  
+1. Web: [Taiwan house price chart with auto update data](https://grimmer.io/Taiwan-house-price-chart/) Vue.js, Plotly (built on top of D3.js and stack.gl), Amazon AWS's Lambda, Google's Firebase. (Including 2012~2018 data, `auto update data` server function is not maintained somehow)
+2. Good books about software project management [include my review] https://paper.dropbox.com/doc/Recommendation-book-list-for-those-people-who-stay-in-software-company--BHfhUtQDDDoOaoVVRcKQjc_HAg-h1OzqSLtap1MqktwFLTG1
+3. Using GitHub Stargazers Distribution to Compare React, Angular and Vue https://medium.com/@grimmer0125/compare-react-angular-and-vue-by-using-github-stargazers-distribution-37bd6e445073
+4. [Learning Javascript](https://lifeoverflow.gitbook.io/learning-javascript/) A entry level online ebook to record my note to learn JavaScript, written in 2016, several months after starting to use JS. 
+5. [AI+Electron](https://github.com/grimmer0125/electron-face-finder) A demo project to use a image including a face to find out the other images including similar faces on your comuters.  
