@@ -19,5 +19,5 @@
 3. Using GitHub Stargazers Distribution to Compare React, Angular and Vue https://medium.com/@grimmer0125/compare-react-angular-and-vue-by-using-github-stargazers-distribution-37bd6e445073
 4. [Learning Javascript](https://lifeoverflow.gitbook.io/learning-javascript/) A entry level online ebook to record my note to learn JavaScript, written in 2016, several months after starting to use JS. 
 5. [AI+Electron](https://github.com/grimmer0125/electron-face-finder) A demo project to use a image including a face to find out the other images including similar faces on your comuters.  
-6. A full-stack example project https://github.com/grimmer0125/typescript-full-stack-example that integrates some famous stack: React Hooks, Redux Toolkit, Node.js, GraphQL, NestJS, TypeORM, PostgreSQL,Traefik, Azure.
+6. [A full-stack TypeScript example project](https://github.com/grimmer0125/typescript-full-stack-example) that integrates some famous stack: React Hooks, Redux Toolkit, Node.js, GraphQL, NestJS, TypeORM, PostgreSQL,Traefik, Azure.
 
