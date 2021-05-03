@@ -22,7 +22,7 @@
 ## Articles & misc
 
 1. Good books about software project management [include my review] https://paper.dropbox.com/doc/Recommendation-book-list-for-those-people-who-stay-in-software-company--BHfhUtQDDDoOaoVVRcKQjc_HAg-h1OzqSLtap1MqktwFLTG1 2021
-2. [A notes about GitHub page and how to use custom domain](https://grimmer.io/GitHub-Page%E7%9A%84%E5%88%86%E9%A1%9E%E4%BB%A5%E5%8F%8A%E4%BD%BF%E7%94%A8Custom-Domain/) 2016
-3. [A notes about using Markdown to write on GitHub Pages](https://grimmer.io/%E5%9C%A8Github-Pages%E4%B8%8A%E7%94%A8Markdown%E6%96%87%E7%AB%A0%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/) 2016
-4. [How to write a Gatsby based blog](https://grimmer.netlify.app/gastyjs-blog-tutorial/) 2018
+2. [How to write a Gatsby based blog](https://grimmer.netlify.app/gastyjs-blog-tutorial/) 2018
+3. [A notes about GitHub page and how to use custom domain](https://grimmer.io/GitHub-Page%E7%9A%84%E5%88%86%E9%A1%9E%E4%BB%A5%E5%8F%8A%E4%BD%BF%E7%94%A8Custom-Domain/) 2016
+4. [A notes about using Markdown to write on GitHub Pages](https://grimmer.io/%E5%9C%A8Github-Pages%E4%B8%8A%E7%94%A8Markdown%E6%96%87%E7%AB%A0%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/) 2016
 5. [Regular Expression Puzzle](https://grimmer.netlify.app/answer-of-regular-expression-puzzle/) 2015
