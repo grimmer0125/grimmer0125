@@ -8,7 +8,7 @@
 6. Chrome extension: [In Gmail. Use slider or input page number to do pagination](https://chrome.google.com/webstore/detail/gmail-pagination-slider/bcjhpmecgoejigiojamklcbfnfnfgnal)
 7. Chrome extension: [Medical DICOM Image Viewer](https://chrome.google.com/webstore/detail/dicom-image-viewer/ehppmcooahfnlfhhcflpkcjmonkoindc) + [Web ver.](https://grimmer.io/dicom-web-viewer/), 1,000+ installs!
 8. Chrome extension: [Auto Show Dropbox Paper Table Of Content]( https://chrome.google.com/webstore/detail/paper-auto-show-toc/eifkjfleeeochflgobmibofbcdiledng)
-9. **Library**: [d4c](https://www.npmjs.com/package/d4c-queue) A TypeScript task queue lib. Support sync/async/promise-returning function, decorators, JavaScript, browser, and Node.js.
+9. **Library**: [d4c](https://www.npmjs.com/package/d4c-queue) A TypeScript task queue lib. Support sync/async/promise-returning function, decorators, JavaScript, browser, and Node.js. **2000+ downloads/week**
 
 ## Open source study project
 
