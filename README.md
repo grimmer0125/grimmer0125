@@ -21,7 +21,7 @@
 
 ## Articles & misc
 
-1. [Draft] 2021 Taiwan COSCUP conference talk: [What is synchronization & concurrency in JavaScript - Use a TypeScript task queue library to introduce](https://slides.com/grimmer/intro_js_ts_task_queuelib_d4c/fullscreen)
+1. [Draft] Taiwan COSCUP conference talk: [What is synchronization & concurrency in JavaScript - Use a TypeScript task queue library to introduce](https://slides.com/grimmer/intro_js_ts_task_queuelib_d4c/fullscreen) 2021
 2. Good books about software project/organization management [include my review] https://paper.dropbox.com/doc/Recommendation-book-list-for-those-people-who-stay-in-software-company--BHfhUtQDDDoOaoVVRcKQjc_HAg-h1OzqSLtap1MqktwFLTG1 2021
 3. [How to write a Gatsby based blog](https://grimmer.netlify.app/gastyjs-blog-tutorial/) 2018
 4. [A note about GitHub page and how to use custom domain](https://grimmer.io/GitHub-Page%E7%9A%84%E5%88%86%E9%A1%9E%E4%BB%A5%E5%8F%8A%E4%BD%BF%E7%94%A8Custom-Domain/) 2016
