@@ -21,8 +21,8 @@
 
 ## Articles & misc
 
-1. Taiwan COSCUP conference talk: 
-    - slide: [What is synchronization & concurrency in JavaScript - Use a TypeScript task queue library to introduce](https://slides.com/grimmer/intro_js_ts_task_queuelib_d4c/fullscreen) 2021.08.01
+1. Taiwan COSCUP conference talk, 2021.08.01: 
+    - slide: [What is synchronization & concurrency in JavaScript - Use a TypeScript task queue library to introduce](https://slides.com/grimmer/intro_js_ts_task_queuelib_d4c/fullscreen)
     - video: https://drive.google.com/file/d/1jEbW5eyEu5OArnChTcpQ146JVOuDhEBG/view?usp=sharing
 3. Good books about software project/organization management [include my review] https://paper.dropbox.com/doc/Recommendation-book-list-for-those-people-who-stay-in-software-company--BHfhUtQDDDoOaoVVRcKQjc_HAg-h1OzqSLtap1MqktwFLTG1 2021
 4. [How to write a Gatsby based blog](https://grimmer.netlify.app/gastyjs-blog-tutorial/) 2018
