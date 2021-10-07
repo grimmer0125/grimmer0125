@@ -22,7 +22,7 @@
 ## Activity, articles & misc
 
 1. Taiwan [PyConTW 2021](https://tw.pycon.org/2021/zh-hant/conference/talk/214) conference talk: Use Pyodide to run Python in browsers - rendering medical DICOM files [slide](https://slides.com/grimmer/intro_pyodide_medical_dicom_viewer/) 2021.10
-2. Taiwan [COSCUP 2021](https://coscup.org/2021/zh-TW/session/CGDY3P) conference talk: What is synchronization & concurrency in JavaScript - Use a TypeScript task queue library to introduce. [slide](https://slides.com/grimmer/intro_js_ts_task_queuelib_d4c/fullscreen) & [mandarin video](https://drive.google.com/file/d/1jEbW5eyEu5OArnChTcpQ146JVOuDhEBG/view?usp=sharing) 2021.08
+2. Taiwan [COSCUP 2021](https://coscup.org/2021/zh-TW/session/CGDY3P) conference talk: What is synchronization & concurrency in JavaScript - Use a TypeScript task queue library to introduce. [slide](https://slides.com/grimmer/intro_js_ts_task_queuelib_d4c/fullscreen) & [mandarin video](https://www.youtube.com/watch?v=_wxSAEts35w) 2021.08
 3. [Good books about software project/organization management [include my review]](https://paper.dropbox.com/doc/Recommendation-book-list-for-those-people-who-stay-in-software-company--BHfhUtQDDDoOaoVVRcKQjc_HAg-h1OzqSLtap1MqktwFLTG1) 2021
 4. [How to write a Gatsby based blog](https://grimmer.netlify.app/gastyjs-blog-tutorial/) 2018
 5. [A note about GitHub page and how to use custom domain](https://grimmer.io/GitHub-Page%E7%9A%84%E5%88%86%E9%A1%9E%E4%BB%A5%E5%8F%8A%E4%BD%BF%E7%94%A8Custom-Domain/) 2016
