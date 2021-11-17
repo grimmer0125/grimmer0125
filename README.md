@@ -11,7 +11,7 @@
 9. **Library**: [d4c-queue](https://www.npmjs.com/package/d4c-queue) A TypeScript task queue lib. Support sync/async/promise-returning function, decorators, JavaScript, browser, Node.js, throttle and concurrency. 100% test coverage. ~ **5,800+ downloads**
 10. **Library**: [@d4c/numjs](https://www.npmjs.com/package/@d4c/numjs) A NumPy-like TypeScript lib. Support browser/Node.js/JavaScript. It is a modification version of [numjs](https://www.npmjs.com/package/numjs)  
 
-## Conferences, articles
+## Conferences and articles
 
 1. Thailand [PyCon APAC 2021](https://th.pycon.org/) conference talk: Use Pyodide to run Python in browsers - rendering medical DICOM files as an example. 2021.11. 
 2. Taiwan [PyConTW 2021](https://tw.pycon.org/2021/zh-hant/conference/talk/214) conference talk: Use Pyodide to run Python in browsers - rendering medical DICOM files [slide](https://slides.com/grimmer/intro_pyodide_medical_dicom_viewer/) 2021.10
