@@ -1,3 +1,9 @@
+## About me: 
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tckang/)
+
+Passionate to make something good for people. Love science, programming, psychology, but not limited to these. Ever participated IoT, Streaming, Astronomy, AI and Medical-imaging (partial in work and side projects) domains. Use JavaScript/TypeScript/Python and used C/C++/C#/Objective-C and Go (side project) languages. I've been a manager or a leader to build mobile app teams and full-stack teams and introduced Agile culture/flow in those organizations. Welcom any collaboration.
+
 ## My open source free utilities
 
 1. [iOS](https://itunes.apple.com/us/app/maolife/id1397714182)/[Android](https://play.google.com/store/apps/details?id=com.lifeoverflow.maolife) This React Native app lets you record a cat/dog daily respiratory rate to get better long-term medical care (some heart and lung diseases, e.g. cat's HCM), sharing record permission OK.
