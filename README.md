@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tckang/)
 
-Passionate to make something good for people. Love science, programming, psychology, but not limited to these. Participated IoT, Streaming, Astronomy, AI, and Medical-imaging (partial in work and side projects) domains. Use JavaScript/TypeScript/Python and used C/C++/C#/Objective-C and Go (side project) languages. I've been a manager or a leader to build mobile app teams and full-stack teams and introduced Agile culture/flow in those organizations. Welcome any collaboration.
+Passionate to make something good for people. Love science, programming, psychology, but not limited to these. Participated IoT, Streaming, Astronomy, AI, and Medical-imaging (partial in work and side projects) domains. Use JavaScript/TypeScript/Python and used C/C++/C#/Objective-C and Go (side project) languages. I've been a manager or a leader to build mobile app teams and full-stack teams, and introduced Agile culture/flow in those organizations. Welcome any collaboration.
 
 ## My open source free utilities
 
