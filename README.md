@@ -1,4 +1,4 @@
-## About me: 
+## About me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tckang/)
 
