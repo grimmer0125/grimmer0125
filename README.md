@@ -35,4 +35,4 @@ I'm passionate to make something good for people. Love science, programming, psy
 5. [A full-stack TypeScript example project](https://github.com/grimmer0125/typescript-full-stack-example) that integrates some famous stack: React Hooks, Redux Toolkit, Node.js, GraphQL, NestJS, TypeORM, PostgreSQL,Traefik, Azure.
 6. E-book [Learning Javascript](https://lifeoverflow.gitbook.io/learning-javascript/) A entry level online ebook to record my note to learn JavaScript, written in 2016, several months after starting to use JS. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grimmer0125&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grimmer0125&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
