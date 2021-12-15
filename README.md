@@ -17,7 +17,7 @@ I'm passionate to make something good for people. Love science, programming, psy
 
 ## Conferences and articles
 
-1. Thailand [PyCon APAC 2021](https://th.pycon.org/) conference talk: Use Pyodide to run Python in browsers - rendering medical DICOM files as an example. [slide](https://slides.com/grimmer/pyconapac_pyodide_dicom_viewer) 2021.11.
+1. Thailand [PyCon APAC 2021](https://th.pycon.org/) conference talk: Use Pyodide to run Python in browsers - rendering medical DICOM files as an example. [slide](https://slides.com/grimmer/pyconapac_pyodide_dicom_viewer) & [video](https://youtu.be/ipEI2sLN5mg) 2021.11.
 2. Taiwan [PyConTW 2021](https://tw.pycon.org/2021/zh-hant/conference/talk/214) conference talk: Use Pyodide to run Python in browsers - rendering medical DICOM files [slide](https://slides.com/grimmer/intro_pyodide_medical_dicom_viewer/) & [mandarin video](https://www.youtube.com/watch?v=Wk6sePJb26o) 2021.10
 3. Taiwan [COSCUP 2021](https://coscup.org/2021/zh-TW/session/CGDY3P) conference talk: What is synchronization & concurrency in JavaScript - Use a TypeScript task queue library to introduce. [d4c-queue](https://www.npmjs.com/package/d4c-queue) v1.6, [slide](https://slides.com/grimmer/intro_js_ts_task_queuelib_d4c/fullscreen) & [mandarin video](https://www.youtube.com/watch?v=_wxSAEts35w) 2021.08
 4. [Good books about software project/organization management [include my review]](https://paper.dropbox.com/doc/Recommendation-book-list-for-those-people-who-stay-in-software-company--BHfhUtQDDDoOaoVVRcKQjc_HAg-h1OzqSLtap1MqktwFLTG1) 2021
