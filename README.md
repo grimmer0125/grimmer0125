@@ -17,15 +17,16 @@ I'm passionate to make something good for people. Love science, programming, psy
 
 ## Conferences and articles
 
-1. [2022.01 slide](https://slides.com/grimmer/study-notes-on-federated-learning-opportunities-and-challenges) Study notes on Federated Learning: Opportunities and Challenges. 
-1. Thailand [PyCon APAC 2021](https://th.pycon.org/pages/speakers#Grimmer-Kang) conference talk: Use Pyodide to run Python in browsers - rendering medical DICOM files as an example. [slide](https://slides.com/grimmer/pyconapac_pyodide_dicom_viewer) & [video](https://youtu.be/kd4C6KNbHT4) 2021.11.
-2. Taiwan [PyConTW 2021](https://tw.pycon.org/2021/zh-hant/conference/talk/214) conference talk: Use Pyodide to run Python in browsers - rendering medical DICOM files [slide](https://slides.com/grimmer/intro_pyodide_medical_dicom_viewer/) & [mandarin video](https://www.youtube.com/watch?v=Wk6sePJb26o) 2021.10
-3. Taiwan [COSCUP 2021](https://coscup.org/2021/zh-TW/session/CGDY3P) conference talk: What is synchronization & concurrency in JavaScript - Use a TypeScript task queue library to introduce. [d4c-queue](https://www.npmjs.com/package/d4c-queue) v1.6, [slide](https://slides.com/grimmer/intro_js_ts_task_queuelib_d4c/fullscreen) & [mandarin video](https://www.youtube.com/watch?v=_wxSAEts35w) 2021.08
-4. [Good books about software project/organization management [include my review]](https://paper.dropbox.com/doc/Recommendation-book-list-for-those-people-who-stay-in-software-company--BHfhUtQDDDoOaoVVRcKQjc_HAg-h1OzqSLtap1MqktwFLTG1) 2021
-5. [How to write a Gatsby based blog](https://grimmer.netlify.app/gastyjs-blog-tutorial/) 2018
-6. [A note about GitHub page and how to use custom domain](https://grimmer.io/GitHub-Page%E7%9A%84%E5%88%86%E9%A1%9E%E4%BB%A5%E5%8F%8A%E4%BD%BF%E7%94%A8Custom-Domain/) 2016
-7. [A note about using Markdown to write on GitHub Pages](https://grimmer.io/%E5%9C%A8Github-Pages%E4%B8%8A%E7%94%A8Markdown%E6%96%87%E7%AB%A0%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/) 2016
-8. [Regular Expression Puzzle](https://grimmer.netlify.app/answer-of-regular-expression-puzzle/) 2015
+1. [2022.08] Taiwan Legal-Tech hackathon 台灣法律法遵科技黑客松 https://github.com/grimmer0125/lawtechhackson
+2. [2022.01 slide](https://slides.com/grimmer/study-notes-on-federated-learning-opportunities-and-challenges) Study notes on Federated Learning: Opportunities and Challenges. 
+3. Thailand [PyCon APAC 2021](https://th.pycon.org/pages/speakers#Grimmer-Kang) conference talk: Use Pyodide to run Python in browsers - rendering medical DICOM files as an example. [slide](https://slides.com/grimmer/pyconapac_pyodide_dicom_viewer) & [video](https://youtu.be/kd4C6KNbHT4) 2021.11.
+4. Taiwan [PyConTW 2021](https://tw.pycon.org/2021/zh-hant/conference/talk/214) conference talk: Use Pyodide to run Python in browsers - rendering medical DICOM files [slide](https://slides.com/grimmer/intro_pyodide_medical_dicom_viewer/) & [mandarin video](https://www.youtube.com/watch?v=Wk6sePJb26o) 2021.10
+5. Taiwan [COSCUP 2021](https://coscup.org/2021/zh-TW/session/CGDY3P) conference talk: What is synchronization & concurrency in JavaScript - Use a TypeScript task queue library to introduce. [d4c-queue](https://www.npmjs.com/package/d4c-queue) v1.6, [slide](https://slides.com/grimmer/intro_js_ts_task_queuelib_d4c/fullscreen) & [mandarin video](https://www.youtube.com/watch?v=_wxSAEts35w) 2021.08
+6. [Good books about software project/organization management [include my review]](https://paper.dropbox.com/doc/Recommendation-book-list-for-those-people-who-stay-in-software-company--BHfhUtQDDDoOaoVVRcKQjc_HAg-h1OzqSLtap1MqktwFLTG1) 2021
+7. [How to write a Gatsby based blog](https://grimmer.netlify.app/gastyjs-blog-tutorial/) 2018
+8. [A note about GitHub page and how to use custom domain](https://grimmer.io/GitHub-Page%E7%9A%84%E5%88%86%E9%A1%9E%E4%BB%A5%E5%8F%8A%E4%BD%BF%E7%94%A8Custom-Domain/) 2016
+9. [A note about using Markdown to write on GitHub Pages](https://grimmer.io/%E5%9C%A8Github-Pages%E4%B8%8A%E7%94%A8Markdown%E6%96%87%E7%AB%A0%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/) 2016
+10. [Regular Expression Puzzle](https://grimmer.netlify.app/answer-of-regular-expression-puzzle/) 2015
 
 ## Open source study project
 
