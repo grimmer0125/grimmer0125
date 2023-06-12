@@ -17,7 +17,7 @@ I'm passionate to make something good for people. Love science, programming, psy
 
 ## Conferences and articles
 
-1. [2022.08] Taiwan Legal-Tech hackathon 台灣法律法遵科技黑客松 https://github.com/grimmer0125/lawtechhackson
+1. Taiwan Legal-Tech hackathon 台灣法律法遵科技黑客松 https://github.com/grimmer0125/lawtechhackson 2022.08
 2. [2022.01 slide](https://slides.com/grimmer/study-notes-on-federated-learning-opportunities-and-challenges) Study notes on Federated Learning: Opportunities and Challenges. 
 3. Thailand [PyCon APAC 2021](https://th.pycon.org/pages/speakers#Grimmer-Kang) conference talk: Use Pyodide to run Python in browsers - rendering medical DICOM files as an example. [slide](https://slides.com/grimmer/pyconapac_pyodide_dicom_viewer) & [video](https://youtu.be/kd4C6KNbHT4) 2021.11.
 4. Taiwan [PyConTW 2021](https://tw.pycon.org/2021/zh-hant/conference/talk/214) conference talk: Use Pyodide to run Python in browsers - rendering medical DICOM files [slide](https://slides.com/grimmer/intro_pyodide_medical_dicom_viewer/) & [mandarin video](https://www.youtube.com/watch?v=Wk6sePJb26o) 2021.10
