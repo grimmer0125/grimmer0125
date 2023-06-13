@@ -4,7 +4,7 @@ I'm passionate to make something good for people. Love science, programming, psy
 
 ## My open source free utilities
 
-1. [iOS](https://itunes.apple.com/us/app/maolife/id1397714182)/[Android](https://play.google.com/store/apps/details?id=com.lifeoverflow.maolife) This React Native app lets you record a cat/dog daily respiratory rate to get better long-term medical care (some heart and lung diseases, e.g. cat's HCM), sharing record permission OK.
+1. [iOS](https://itunes.apple.com/us/app/maolife/id1397714182)/~~[Android](https://play.google.com/store/apps/details?id=com.lifeoverflow.maolife)~~ This React Native app lets you record a cat/dog daily respiratory rate to get better long-term medical care (some heart and lung diseases, e.g. cat's HCM), sharing record permission OK.
 2. Utility: [Visual Studio Code Back and Forward button](https://marketplace.visualstudio.com/items?itemName=grimmer.vscode-back-forward-button) 35,000+ installs!
 3. Utility(archive): [Atom editor package-markdown-preview-kramdown](https://atom.io/packages/markdown-preview-kramdown) 2,400+ download
 4. Utility: [A command line program to change macOS terminal title](https://pypi.org/project/termtitle/) Python, PyPI, 20,000+ download
