@@ -17,26 +17,27 @@ I'm passionate to make something good for people. Love science, programming, psy
 
 ## Conferences and articles
 
-2. [2022.01 slide](https://slides.com/grimmer/study-notes-on-federated-learning-opportunities-and-challenges) Study notes on Federated Learning: Opportunities and Challenges. 
-3. Thailand [PyCon APAC 2021](https://th.pycon.org/pages/speakers#Grimmer-Kang) conference talk: Use Pyodide to run Python in browsers - rendering medical DICOM files as an example. [slide](https://slides.com/grimmer/pyconapac_pyodide_dicom_viewer) & [video](https://youtu.be/kd4C6KNbHT4) 2021.11.
-4. Taiwan [PyConTW 2021](https://tw.pycon.org/2021/zh-hant/conference/talk/214) conference talk: Use Pyodide to run Python in browsers - rendering medical DICOM files [slide](https://slides.com/grimmer/intro_pyodide_medical_dicom_viewer/) & [mandarin video](https://www.youtube.com/watch?v=Wk6sePJb26o) 2021.10
-5. Taiwan [COSCUP 2021](https://coscup.org/2021/zh-TW/session/CGDY3P) conference talk: What is synchronization & concurrency in JavaScript - Use a TypeScript task queue library to introduce. [d4c-queue](https://www.npmjs.com/package/d4c-queue) v1.6, [slide](https://slides.com/grimmer/intro_js_ts_task_queuelib_d4c/fullscreen) & [mandarin video](https://www.youtube.com/watch?v=_wxSAEts35w) 2021.08
-6. [Good books about software project/organization management [include my review]](https://paper.dropbox.com/doc/Recommendation-book-list-for-those-people-who-stay-in-software-company--BHfhUtQDDDoOaoVVRcKQjc_HAg-h1OzqSLtap1MqktwFLTG1) 2021
-7. [How to write a Gatsby based blog](https://grimmer.netlify.app/gastyjs-blog-tutorial/) 2018
-8. [A note about GitHub page and how to use custom domain](https://grimmer.io/GitHub-Page%E7%9A%84%E5%88%86%E9%A1%9E%E4%BB%A5%E5%8F%8A%E4%BD%BF%E7%94%A8Custom-Domain/) 2016
-9. [A note about using Markdown to write on GitHub Pages](https://grimmer.io/%E5%9C%A8Github-Pages%E4%B8%8A%E7%94%A8Markdown%E6%96%87%E7%AB%A0%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/) 2016
-10. [Regular Expression Puzzle](https://grimmer.netlify.app/answer-of-regular-expression-puzzle/) 2015
+1. [2022.01 slide](https://slides.com/grimmer/study-notes-on-federated-learning-opportunities-and-challenges) Study notes on Federated Learning: Opportunities and Challenges. 
+2. Thailand [PyCon APAC 2021](https://th.pycon.org/pages/speakers#Grimmer-Kang) conference talk: Use Pyodide to run Python in browsers - rendering medical DICOM files as an example. [slide](https://slides.com/grimmer/pyconapac_pyodide_dicom_viewer) & [video](https://youtu.be/kd4C6KNbHT4) 2021.11.
+3. Taiwan [PyConTW 2021](https://tw.pycon.org/2021/zh-hant/conference/talk/214) conference talk: Use Pyodide to run Python in browsers - rendering medical DICOM files [slide](https://slides.com/grimmer/intro_pyodide_medical_dicom_viewer/) & [mandarin video](https://www.youtube.com/watch?v=Wk6sePJb26o) 2021.10
+4. Taiwan [COSCUP 2021](https://coscup.org/2021/zh-TW/session/CGDY3P) conference talk: What is synchronization & concurrency in JavaScript - Use a TypeScript task queue library to introduce. [d4c-queue](https://www.npmjs.com/package/d4c-queue) v1.6, [slide](https://slides.com/grimmer/intro_js_ts_task_queuelib_d4c/fullscreen) & [mandarin video](https://www.youtube.com/watch?v=_wxSAEts35w) 2021.08
+5. [Good books about software project/organization management [include my review]](https://paper.dropbox.com/doc/Recommendation-book-list-for-those-people-who-stay-in-software-company--BHfhUtQDDDoOaoVVRcKQjc_HAg-h1OzqSLtap1MqktwFLTG1) 2021
+6. [How to write a Gatsby based blog](https://grimmer.netlify.app/gastyjs-blog-tutorial/) 2018
+7. [A note about GitHub page and how to use custom domain](https://grimmer.io/GitHub-Page%E7%9A%84%E5%88%86%E9%A1%9E%E4%BB%A5%E5%8F%8A%E4%BD%BF%E7%94%A8Custom-Domain/) 2016
+8. [A note about using Markdown to write on GitHub Pages](https://grimmer.io/%E5%9C%A8Github-Pages%E4%B8%8A%E7%94%A8Markdown%E6%96%87%E7%AB%A0%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/) 2016
+9. [Regular Expression Puzzle](https://grimmer.netlify.app/answer-of-regular-expression-puzzle/) 2015
 
 ## Open source study project
 
 1. Taiwan Legal-Tech hackathon 台灣法律法遵科技黑客松 https://github.com/grimmer0125/lawtechhackson 2022.08
-1. Docker image: https://hub.docker.com/repository/docker/grimmer0125/express-mongo-rest-sample 1,100+ downloads. [project](https://github.com/grimmer0125/express-mongo-rest-k8s-sample).
-2. Web: [Taiwan house price chart with auto update data](https://grimmer.io/Taiwan-house-price-chart/) Vue.js, Plotly (built on top of D3.js and stack.gl), Amazon AWS's Lambda, Google's Firebase. (Including 2012~2018 data, `auto update data` server function is not maintained somehow)
-3. Medium article, Jupyter Notebook: [Using GitHub Stargazers Distribution to Compare React, Angular and Vue](https://medium.com/@grimmer0125/compare-react-angular-and-vue-by-using-github-stargazers-distribution-37bd6e445073)
-4. [AI+Electron](https://github.com/grimmer0125/electron-face-finder) A demo project to use a image including a face to find out the other images including similar faces on your comuters.  
-5. [A full-stack TypeScript example project](https://github.com/grimmer0125/typescript-full-stack-example) that integrates some famous stack: React Hooks, Redux Toolkit, Node.js, GraphQL, NestJS, TypeORM, PostgreSQL,Traefik, Azure.
-6. E-book [Learning Javascript](https://lifeoverflow.gitbook.io/learning-javascript/) A entry level online ebook to record my note to learn JavaScript, written in 2016, several months after starting to use JS. 
-7. [p2pMessenger](https://github.com/grimmer0125/p2pMessenger) demonstrates how to use a WebSocket signal server to exchange the IP information of every pair of iOS clients and constructs a P2P STUN channel to exchange text messages. STUN is a part of WebRTC.
+2. https://github.com/pycontw/facebook_page_insights_client 2021.11
+3. Docker image: https://hub.docker.com/repository/docker/grimmer0125/express-mongo-rest-sample 1,100+ downloads. [project](https://github.com/grimmer0125/express-mongo-rest-k8s-sample).
+4. Web: [Taiwan house price chart with auto update data](https://grimmer.io/Taiwan-house-price-chart/) Vue.js, Plotly (built on top of D3.js and stack.gl), Amazon AWS's Lambda, Google's Firebase. (Including 2012~2018 data, `auto update data` server function is not maintained somehow)
+5. Medium article, Jupyter Notebook: [Using GitHub Stargazers Distribution to Compare React, Angular and Vue](https://medium.com/@grimmer0125/compare-react-angular-and-vue-by-using-github-stargazers-distribution-37bd6e445073)
+6. [AI+Electron](https://github.com/grimmer0125/electron-face-finder) A demo project to use a image including a face to find out the other images including similar faces on your comuters.  
+7. [A full-stack TypeScript example project](https://github.com/grimmer0125/typescript-full-stack-example) that integrates some famous stack: React Hooks, Redux Toolkit, Node.js, GraphQL, NestJS, TypeORM, PostgreSQL,Traefik, Azure.
+8. E-book [Learning Javascript](https://lifeoverflow.gitbook.io/learning-javascript/) A entry level online ebook to record my note to learn JavaScript, written in 2016, several months after starting to use JS. 
+9. [p2pMessenger](https://github.com/grimmer0125/p2pMessenger) demonstrates how to use a WebSocket signal server to exchange the IP information of every pair of iOS clients and constructs a P2P STUN channel to exchange text messages. STUN is a part of WebRTC.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grimmer0125&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
