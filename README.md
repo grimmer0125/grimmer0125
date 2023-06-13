@@ -5,12 +5,12 @@ I'm passionate to make something good for people. Love science, programming, psy
 ## My open source free utilities
 
 1. [iOS](https://itunes.apple.com/us/app/maolife/id1397714182)/[Android](https://play.google.com/store/apps/details?id=com.lifeoverflow.maolife) This React Native app lets you record a cat/dog daily respiratory rate to get better long-term medical care (some heart and lung diseases, e.g. cat's HCM), sharing record permission OK.
-2. Utility: [Visual Studio Code Back and Forward button](https://marketplace.visualstudio.com/items?itemName=grimmer.vscode-back-forward-button) 21,000+ installs!
-3. Utility: [Atom editor package-markdown-preview-kramdown](https://atom.io/packages/markdown-preview-kramdown) 2,400+ download
-4. Utility: [A command line program to change macOS terminal title](https://pypi.org/project/termtitle/) Python, PyPI, 15,000+ download
+2. Utility: [Visual Studio Code Back and Forward button](https://marketplace.visualstudio.com/items?itemName=grimmer.vscode-back-forward-button) 35,000+ installs!
+3. Utility(archive): [Atom editor package-markdown-preview-kramdown](https://atom.io/packages/markdown-preview-kramdown) 2,400+ download
+4. Utility: [A command line program to change macOS terminal title](https://pypi.org/project/termtitle/) Python, PyPI, 20,000+ download
 5. Chrome extension: [GitHub inline code color editor](https://chrome.google.com/webstore/detail/github-inline-code-color/ancifpojcglbcoilgkpeiphjenigogmb?hl=zh-TW&authuser=0)
 6. Chrome extension: [In Gmail. Use slider or input page number to do pagination](https://chrome.google.com/webstore/detail/gmail-pagination-slider/bcjhpmecgoejigiojamklcbfnfnfgnal)
-7. Chrome extension: [Medical DICOM Image Viewer](https://chrome.google.com/webstore/detail/dicom-image-viewer/ehppmcooahfnlfhhcflpkcjmonkoindc) + [Web ver.](https://grimmer.io/dicom-web-viewer/), [src](https://github.com/grimmer0125/dicom-web-viewer) 1,500+ installs!
+7. Chrome extension: [Medical DICOM Image Viewer](https://chrome.google.com/webstore/detail/dicom-image-viewer/ehppmcooahfnlfhhcflpkcjmonkoindc) + [Web ver.](https://grimmer.io/dicom-web-viewer/), [src](https://github.com/grimmer0125/dicom-web-viewer) 3,000+ installs!
 8. Chrome extension: [Auto Show Dropbox Paper Table Of Content]( https://chrome.google.com/webstore/detail/paper-auto-show-toc/eifkjfleeeochflgobmibofbcdiledng)
 9. **Library**: [d4c-queue](https://www.npmjs.com/package/d4c-queue) A TypeScript task queue lib. Support sync/async/promise-returning function, decorators, JavaScript, browser, Node.js, throttle and concurrency. 100% test coverage. ~ **6,000+ downloads**
 10. **Library**: [@d4c/numjs](https://www.npmjs.com/package/@d4c/numjs) A NumPy-like TypeScript lib. Support browser/Node.js/JavaScript. It is a modification version of [numjs](https://www.npmjs.com/package/numjs)  
