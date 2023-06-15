@@ -30,7 +30,7 @@ I'm passionate to make something good for people. Love science, programming, psy
 ## Open source study project
 
 1. Taiwan Legal-Tech hackathon 台灣法律法遵科技黑客松 https://github.com/grimmer0125/lawtechhackson 2022.08
-2. https://github.com/pycontw/facebook_page_insights_client 2021.11
+2. https://github.com/pycontw/facebook_page_insights_client It was planned to be released a Python PyPI package. 2021.11.
 3. Docker image: https://hub.docker.com/repository/docker/grimmer0125/express-mongo-rest-sample 1,100+ downloads. [project](https://github.com/grimmer0125/express-mongo-rest-k8s-sample).
 4. Web: [Taiwan house price chart with auto update data](https://grimmer.io/Taiwan-house-price-chart/) Vue.js, Plotly (built on top of D3.js and stack.gl), Amazon AWS's Lambda, Google's Firebase. (Including 2012~2018 data, `auto update data` server function is not maintained somehow)
 5. Medium article, Jupyter Notebook: [Using GitHub Stargazers Distribution to Compare React, Angular and Vue](https://medium.com/@grimmer0125/compare-react-angular-and-vue-by-using-github-stargazers-distribution-37bd6e445073)
