@@ -1,8 +1,12 @@
 ## 👋 Hello there, I'm Grimmer Kang [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tckang/)
 
-I'm passionate to make something good for people. Love science, programming, psychology, but not limited to these. Participated IoT, Streaming, Astronomy, AI, and Medical-imaging (partial in work and side projects) domains. Use JavaScript/TypeScript/Python and used C/C++/C#/Objective-C and Go (side project) languages. I've been a manager or a leader to build mobile-app and full-stack teams successfully and introduced Agile culture/flow in those organizations. Welcome any collaboration.
+I'm passionate about making something good for people. I love science, programming, and psychology, but not limited to these. I have participated in IoT, Streaming, Astronomy, AI, and Medical-imaging (partial in work and side projects) domains. Use JavaScript/TypeScript/Python recently and used C/C++/C#/Objective-C and Go (side project) languages. I've successfully been a manager or leader in building mobile apps and full-stack teams and introduced Agile culture/flow in those organizations. Welcome any collaboration.
 
-## My open source free utilities
+## Latest ongoing project
+
+- macOS desktop app: VS Code (Visual Studio Code) Switcher. It can even launch a VS Code window with the specific project folder name when VS Code is not opened. Its source code is not ready to be released yet, and the app has been submitted to the app store and is in review status, so please contact me if you want to try the beta version. It has a dependent VS Code extension https://marketplace.visualstudio.com/items?itemName=grimmer.SwitchV. 
+
+## Open-source free utilities
 
 1. [iOS](https://itunes.apple.com/us/app/maolife/id1397714182)/~~[Android](https://play.google.com/store/apps/details?id=com.lifeoverflow.maolife)~~ This React Native app lets you record a cat/dog daily respiratory rate to get better long-term medical care (some heart and lung diseases, e.g. cat's HCM), sharing record permission OK.
 2. Utility: [Visual Studio Code Back and Forward button](https://marketplace.visualstudio.com/items?itemName=grimmer.vscode-back-forward-button) 35,000+ installs!
@@ -13,7 +17,7 @@ I'm passionate to make something good for people. Love science, programming, psy
 7. Chrome extension: [Medical DICOM Image Viewer](https://chrome.google.com/webstore/detail/dicom-image-viewer/ehppmcooahfnlfhhcflpkcjmonkoindc) + [Web ver.](https://grimmer.io/dicom-web-viewer/), [src](https://github.com/grimmer0125/dicom-web-viewer) 3,000+ installs!
 8. Chrome extension: [Auto Show Dropbox Paper Table Of Content]( https://chrome.google.com/webstore/detail/paper-auto-show-toc/eifkjfleeeochflgobmibofbcdiledng)
 9. **Library**: [d4c-queue](https://www.npmjs.com/package/d4c-queue) A TypeScript task queue lib. Support sync/async/promise-returning function, decorators, JavaScript, browser, Node.js, throttle and concurrency. 100% test coverage. ~ **9,800+ downloads**
-10. **Library**: [@d4c/numjs](https://www.npmjs.com/package/@d4c/numjs) A NumPy-like TypeScript lib. Support browser/Node.js/JavaScript. It is a modification version of [numjs](https://www.npmjs.com/package/numjs) **7,700+ downloads** 
+10. **Library**: [@d4c/numjs](https://www.npmjs.com/package/@d4c/numjs) A NumPy-like TypeScript lib. Support browser/Node.js/JavaScript. It is a modified version of [numjs](https://www.npmjs.com/package/numjs) **7,700+ downloads** 
 
 ## Conferences and articles
 
@@ -27,9 +31,9 @@ I'm passionate to make something good for people. Love science, programming, psy
 8. [A note about using Markdown to write on GitHub Pages](https://grimmer.io/%E5%9C%A8Github-Pages%E4%B8%8A%E7%94%A8Markdown%E6%96%87%E7%AB%A0%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/) 2016
 9. [Regular Expression Puzzle](https://grimmer.netlify.app/answer-of-regular-expression-puzzle/) 2015
 
-## Open source study project
+## Open-source study project
 
-1. Taiwan Legal-Tech hackathon 台灣法律法遵科技黑客松 https://github.com/grimmer0125/lawtechhackson 2022.08
+1. Taiwan Legal-Tech hackathon https://github.com/grimmer0125/lawtechhackson 2022.08
 2. https://github.com/pycontw/facebook_page_insights_client It was planned to be released a Python PyPI package. 2021.11.
 3. Docker image: https://hub.docker.com/repository/docker/grimmer0125/express-mongo-rest-sample 1,100+ downloads. [project](https://github.com/grimmer0125/express-mongo-rest-k8s-sample).
 4. Web: [Taiwan house price chart with auto update data](https://grimmer.io/Taiwan-house-price-chart/) Vue.js, Plotly (built on top of D3.js and stack.gl), Amazon AWS's Lambda, Google's Firebase. (Including 2012~2018 data, `auto update data` server function is not maintained somehow)
