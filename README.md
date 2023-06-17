@@ -4,7 +4,7 @@ I'm passionate about making something good for people. I love science, programmi
 
 ## Latest ongoing project
 
-- macOS desktop app: VS Code (Visual Studio Code) Switcher, which can even launch a VS Code window with the specific project folder name when VS Code is not opened. [Raycast](https://www.raycast.com/) has a similar feature, but this Switcher app is more quicker and has more features. Its source code is not ready to be released yet, and the app has been submitted to the app store and is in review status, so please get in touch with me if you want to try the beta version. It has a dependent VS Code extension https://marketplace.visualstudio.com/items?itemName=grimmer.SwitchV. 
+- macOS desktop app: VS Code (Visual Studio Code) Switcher, which can even launch a VS Code window with the specific project folder name when VS Code is not opened. [Raycast](https://www.raycast.com/) has a similar feature, but this Switcher app is more quicker and has more features. Its source code is not ready to be released yet, and the app is in the preparation stage for release. Please get in touch with me if you want to try the beta version. It has a dependent VS Code extension https://marketplace.visualstudio.com/items?itemName=grimmer.SwitchV. 
 
 ## Open-source free utilities
 
