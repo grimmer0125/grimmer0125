@@ -2,7 +2,7 @@
 
 I'm passionate about making something good for people. I love science, programming, and psychology, but not limited to these. I have participated in IoT, Streaming, Astronomy, AI, and Medical-imaging (partial in work and side projects) domains. Use JavaScript/TypeScript/Python recently and used C/C++/C#/Objective-C and Go (side project) languages. I've successfully been a manager or leader in building mobile apps and full-stack teams and introduced Agile culture/flow in those organizations. Welcome any collaboration.
 
-## Latest ongoing project
+## Recent ongoing project
 
 - macOS desktop app: VS Code (Visual Studio Code) Switcher, which can even launch a VS Code window with the specific project folder name when VS Code is not opened. [Raycast](https://www.raycast.com/) has a similar feature, but this Switcher app is more quicker and has more features. Its source code is not ready to be released yet, and the app is in the preparation stage for release. Please get in touch with me if you want to try the beta version. It has a dependent VS Code extension https://marketplace.visualstudio.com/items?itemName=grimmer.SwitchV. 
 
