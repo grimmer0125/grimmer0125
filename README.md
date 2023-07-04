@@ -4,7 +4,7 @@ I'm passionate about making something good for people. I love science, programmi
 
 ## Recent ongoing project
 
-- [SwitchV: macOS desktop app](https://apps.apple.com/us/app/switchv/id1663612397): VS Code (Visual Studio Code) Switcher, which can even launch a VS Code window with the specific project folder name when VS Code is not opened. Its source code is not ready to be released yet.
+- [SwitchV: macOS desktop app](https://apps.apple.com/us/app/switchv/id1663612397): VS Code (Visual Studio Code) quick launcher and switcher, which can even launch a VS Code window with the specific project folder name when VS Code is not opened. To use it, you must first install [SwitchV: VS Code extension](https://marketplace.visualstudio.com/items?itemName=grimmer.SwitchV).
 
 ## Open-source free utilities
 
