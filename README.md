@@ -43,6 +43,3 @@ I'm passionate about making something good for people. I love science, programmi
 8. E-book [Learning Javascript](https://lifeoverflow.gitbook.io/learning-javascript/) A entry level online ebook to record my note to learn JavaScript, written in 2016, several months after starting to use JS. 
 9. [p2pMessenger](https://github.com/grimmer0125/p2pMessenger) demonstrates how to use a WebSocket signal server to exchange the IP information of every pair of iOS clients and constructs a P2P STUN channel to exchange text messages. STUN is a part of WebRTC.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grimmer0125&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
