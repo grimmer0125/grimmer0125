@@ -17,7 +17,7 @@ I'm passionate about making something good for people. I love science, programmi
 7. Chrome extension: [Medical DICOM Image Viewer](https://chrome.google.com/webstore/detail/dicom-image-viewer/ehppmcooahfnlfhhcflpkcjmonkoindc) + [Web ver.](https://grimmer.io/dicom-web-viewer/), [src](https://github.com/grimmer0125/dicom-web-viewer) 3,000+ installs!
 8. Chrome extension: [Auto Show Dropbox Paper Table Of Content]( https://chrome.google.com/webstore/detail/paper-auto-show-toc/eifkjfleeeochflgobmibofbcdiledng)
 9. **Library**: [d4c-queue](https://www.npmjs.com/package/d4c-queue) A TypeScript in-memory & in-process task queue lib. Support sync/async/promise-returning function, decorators, JavaScript, browser, Node.js, throttle and concurrency. 100% test coverage. ~ **10,000+ downloads**
-10. **Library**: [@d4c/numjs](https://www.npmjs.com/package/@d4c/numjs) A NumPy-like TypeScript lib. Support browser/Node.js/JavaScript. It is a modified version of [numjs](https://www.npmjs.com/package/numjs) **9,600+ downloads** 
+10. **Library**: [@d4c/numjs](https://www.npmjs.com/package/@d4c/numjs) A NumPy-like TypeScript lib. Support browser/Node.js/JavaScript. It is a modified version of [numjs](https://www.npmjs.com/package/numjs) **10,000+ downloads** 
 
 ## Conferences and articles
 
