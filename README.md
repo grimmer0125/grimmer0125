@@ -2,10 +2,6 @@
 
 I'm passionate about making something good for people. I love science, programming, and psychology, but not limited to these. I have participated in IoT, Streaming, Astronomy, AI, and Medical-imaging (partial in work and side projects) domains. Use JavaScript/TypeScript/Python recently and used C/C++/C#/Objective-C and Go (side project) languages. I've successfully been a manager or leader in building mobile apps and full-stack teams and introduced Agile culture/flow in those organizations. Welcome any collaboration.
 
-## Recent ongoing project
-
-- [SwitchV: macOS desktop app](https://apps.apple.com/us/app/switchv/id1663612397): VS Code (Visual Studio Code) quick launcher and switcher, which can even launch a VS Code window with the specific project folder name when VS Code is not opened. To use it, you must first install [SwitchV: VS Code extension](https://marketplace.visualstudio.com/items?itemName=grimmer.SwitchV).
-
 ## Open-source free utilities
 
 1. [iOS](https://itunes.apple.com/us/app/maolife/id1397714182)/~~[Android](https://play.google.com/store/apps/details?id=com.lifeoverflow.maolife)~~ This React Native app lets you record a cat/dog daily respiratory rate to get better long-term medical care (some heart and lung diseases, e.g. cat's HCM), sharing record permission OK.
@@ -18,6 +14,8 @@ I'm passionate about making something good for people. I love science, programmi
 8. Chrome extension: ~~[Auto Show Dropbox Paper Table Of Content]( https://chrome.google.com/webstore/detail/paper-auto-show-toc/eifkjfleeeochflgobmibofbcdiledng)~~
 9. **Library**: [d4c-queue](https://www.npmjs.com/package/d4c-queue) A TypeScript in-memory & in-process task queue lib. Support sync/async/promise-returning function, decorators, JavaScript, browser, Node.js, throttle and concurrency. 100% test coverage. ~ **10,000+ downloads**
 10. **Library**: [@d4c/numjs](https://www.npmjs.com/package/@d4c/numjs) A NumPy-like TypeScript lib. Support browser/Node.js/JavaScript. It is a modified version of [numjs](https://www.npmjs.com/package/numjs) **15,000+ downloads** 
+11. **[SwitchV: macOS desktop app](https://apps.apple.com/us/app/switchv/id1663612397)**: **VS Code (Visual Studio Code)** quick launcher and switcher, which can even launch a VS Code window with the specific project folder name when VS Code is not opened. To use it, you must first install [SwitchV: VS Code extension](https://marketplace.visualstudio.com/items?itemName=grimmer.SwitchV), created in 2023. 
+
 
 ## Conferences and articles
 
