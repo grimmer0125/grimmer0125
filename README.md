@@ -1,4 +1,4 @@
-## 👋 Hello there, I'm Grimmer Kang [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tckang/)
+## 👋 Hello there, I'm Grimmer Kang [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tckang/) ![Stars](https://img.shields.io/github/stars/grimmer0125?style=social)
 
 I'm passionate about making something good for people. I love science, programming, and psychology, but not limited to these. I have participated in IoT, Streaming, Astronomy, AI, and Medical-imaging (partial in work and side projects) domains. Use JavaScript/TypeScript/Python recently and used C/C++/C#/Objective-C and Go (side project) languages. I've successfully been a manager or leader in building mobile apps and full-stack teams and introduced Agile culture/flow in those organizations. Welcome any collaboration.
 
@@ -40,4 +40,7 @@ I'm passionate about making something good for people. I love science, programmi
 7. [A full-stack TypeScript example project](https://github.com/grimmer0125/typescript-full-stack-example) that integrates some famous stack: React Hooks, Redux Toolkit, Node.js, GraphQL, NestJS, TypeORM, PostgreSQL,Traefik, Azure.
 8. E-book [Learning Javascript](https://lifeoverflow.gitbook.io/learning-javascript/) A entry level online ebook to record my note to learn JavaScript, written in 2016, several months after starting to use JS. 
 9. [p2pMessenger](https://github.com/grimmer0125/p2pMessenger) demonstrates how to use a WebSocket signal server to exchange the IP information of every pair of iOS clients and constructs a P2P STUN channel to exchange text messages. STUN is a part of WebRTC.
+
+
+
 
